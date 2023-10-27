@@ -36,7 +36,7 @@ pygmentsStyle = "monokai"
     </script>
   """
   socialIcons = [
-    {name = "QQ", url = "/images/qq.png"},
+    {name = "qq", url = "/images/qq.png"},
     {name = "wechat", url = "/images/wechat.png"},
     {name = "bilibili", url = "/images/bilibili.png"},
     {name = "github", url = "https://github.com/cowqer"},
@@ -44,7 +44,7 @@ pygmentsStyle = "monokai"
     {name = "twitch", url = "https://example.com"},
     {name = "email", url = "mailto:quancui.xtu@gmail.com"}
   ]
-  metaKeywords = ["blog", "gokarna", "hugo"]
+  metaKeywords = ["blog", "seekyou", "hugo"]
 
 [menu]
   [[menu.main]]
@@ -80,7 +80,7 @@ pygmentsStyle = "monokai"
   [[menu.main]]
     identifier = "buymeacoffee"
     pre = "<span data-feather='coffee'></span>"
-    url = "https://www.buymeacoffee.com/avijitgupta"
+    url = "https://github.com/cowqer"
     weight = 6
 
   [[menu.main]]
