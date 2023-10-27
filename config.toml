@@ -36,10 +36,10 @@ pygmentsStyle = "monokai"
     </script>
   """
   socialIcons = [
-    {name = "twitter", url = "https://example.com"},
-    {name = "linkedin", url = "https://example.com"},
-    {name = "stackoverflow", url = "https://example.com"},
-    {name = "dribbble", url = "https://example.com"},
+    {name = "QQ", url = "/images/qq.png"},
+    {name = "wechat", url = "/images/wechat.png"},
+    {name = "bilibili", url = "/images/bilibili.png"},
+    {name = "github", url = "https://github.com/cowqer"},
     {name = "instagram", url = "https://example.com"},
     {name = "twitch", url = "https://example.com"},
     {name = "email", url = "mailto:quancui.xtu@gmail.com"}
