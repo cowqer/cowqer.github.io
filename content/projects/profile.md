@@ -2,11 +2,8 @@
 title: 个人简介
 type: page
 ---
+![Alan coqer](cq.jpg)
 
-<div style="display: flex; align-items: center;">
-  <img src="a.jpg" alt="John Doe" style="width: 100px; height: 200px; border-radius: 50%; margin-right: 20px;">
-  <h2>alan coq</h2>
-</div>
 ## 姓名
  崔全（Coqer Alan）
 ## 职业
