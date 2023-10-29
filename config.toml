@@ -36,7 +36,7 @@ pygmentsStyle = "monokai"
     </script>
   """
   socialIcons = [
-    {name = "qq", url = "/images/qq.png"},
+    {name = "home", url = "/images/qq.png"},
     {name = "wechat", url = "/images/wechat.png"},
     {name = "bilibili", url = "/images/bilibili.png"},
     {name = "github", url = "https://github.com/cowqer"},
