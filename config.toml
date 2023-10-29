@@ -1,5 +1,5 @@
 baseURL = "https://gokarna-hugo.netlify.app"
-title = "崔の秘密站点"
+title = "衡阳の雁"
 theme = "gokarna"
 languageCode = "zh"
 defaultContentLanguage = "en"
@@ -36,9 +36,9 @@ pygmentsStyle = "monokai"
     </script>
   """
   socialIcons = [
-    {name = "gmail", url = "/images/qq.png"},
-    {name = "youtube", url = "/images/wechat.png"},
-    {name = "email", url = "/images/bilibili.png"},
+    {name = "qq", url = "/images/qq.png"},
+    {name = "wechat", url = "/images/wechat.png"},
+    {name = "bilibili", url = "/images/bilibili.png"},
     {name = "github", url = "https://github.com/cowqer"},
     {name = "instagram", url = "https://example.com"},
     {name = "twitch", url = "https://example.com"},
